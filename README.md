@@ -32,6 +32,8 @@ Sou alguém que sempre amou a tecnologia e se identificou com a programação.
 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsanttos7&show_icons=true&theme=dark)](https://github.com/devsanttos7)
 
+![Snake animation](https://github.com/devsanttos7/devsanttos7/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🤝 Vamos nos conectar?

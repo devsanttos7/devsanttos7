@@ -1,21 +1,23 @@
 <h1 align="center">✨ Fala, eu sou Thiago Santos!</h1>
+<p align="center">
+Tenho 19 anos, estou construindo minha jornada na tecnologia, nos negócios e na vida.
+</p>
 
 <p align="center">
-  Tenho 19 anos, estou construindo minha jornada na tecnologia, nos negócios e na vida.  
 </p>
 
 ---
 
 ### 🙋‍♂️ Quem sou eu
 
-Sou alguém que sempre amou a tecnologia e se indentificou com a programação.
+Sou alguém que sempre amou a tecnologia e se identificou com a programação.
 
-- 💻 Atualmente desenvolvendo projetos com foco em **empreendedorismo, IA e automação**
-- 📓 Se dedicando ao progresso na **faculdade**.
+- 💻 Desenvolvendo projetos com foco em **empreendedorismo, IA e automação**
+- 📓 Se dedicando ao progresso na **faculdade**
+
 ---
 
-### 🧠 Stack atual (em evolução constante)
-## Tecnologias que eu uso no meu dia
+### 🧠 Stack atual
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,15 +28,19 @@ Sou alguém que sempre amou a tecnologia e se indentificou com a programação.
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### 🤝 Vamos nos conectar?
+---
 
-Se você acredita em progresso de verdade, gosta de construir coisas do zero ou quer trocar ideia, chama:
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsanttos7&show_icons=true&theme=dark)](https://github.com/devsanttos7)
+
+---
+
+### 🤝 Vamos nos conectar?
 
 - 📩 **thiagosantoslima2005@gmail.com**
 
+---
+
 <p align="center">
-Feito com foco e propósito!!  
+Feito com foco e propósito.  
 Se você também tá tentando crescer aos poucos, tamo junto.
-</p> colei isso mas ainda aprece aquilo
-
-
+</p>
